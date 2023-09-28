@@ -5,7 +5,7 @@
     "id": "@id",
     "type": "@type",
     "UsecaseAgreement": {
-      "@id": "https://jsonblob.com/api/jsonBlob/1156894480363544576#UsecaseAgreement",
+      "@id": "https://raw.githubusercontent.com/thackerronak/test/main/UsecaseAgreement#UsecaseAgreement",
       "@context": {
         "@version": 1.1,
         "@protected": true,
