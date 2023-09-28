@@ -2,16 +2,15 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
+    "id": "@id",
+    "type": "@type",
     "UsecaseAgreement": {
-      "@id": "https://raw.githubusercontent.com/thackerronak/test/main/UsecaseAgreement#UsecaseAgreement",
-      "@context": {
-        "@version": 1.1,
-        "@protected": true,
-        "id": "@id",
-        "type": "@type",
-        "contractTemplate": "https://example.org/",
-        "contractVersion": "https://schema.org/Float"
-      }
-    }
+      "@context": [
+        "https://www.w3.org/2018/credentials/v1"
+      ],
+      "@id": "https://raw.githubusercontent.com/thackerronak/test/main/UsecaseAgreement#UsecaseAgreement"
+    },
+    "contractVersion": "https://schema.org/Float",
+    "contractTemplate": "https://schema.org/Text"
   }
 }
