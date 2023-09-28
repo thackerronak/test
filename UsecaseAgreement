@@ -10,6 +10,9 @@
       ],
       "@id": "https://raw.githubusercontent.com/thackerronak/test/main/UsecaseAgreement#UsecaseAgreement"
     },
+    "holderIdentifier": {
+      "@id": "http://schema.org/identifier"
+    },
     "contractVersion": "https://schema.org/Float",
     "contractTemplate": "https://schema.org/Text"
   }
