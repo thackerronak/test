@@ -9,7 +9,7 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "contractTemplate": "https://schema.org/Text",
+        "contractTemplate": "https://example.org/",
         "contractVersion": "https://schema.org/Float"
       }
     }
