@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+    "UsecaseAgreement": {
+      "@id": "https://jsonblob.com/api/jsonBlob/1156894480363544576#UsecaseAgreement",
+      "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "value": {
+          "@id": "ex:value",
+          "@type": "https://schema.org/Text"
+        },
+        "contract-template": {
+          "@id": "ex:contract-template",
+          "@type": "https://schema.org/Text"
+        },
+        "contract-version": {
+          "@id": "ex:contract-version",
+          "@type": "https://schema.org/Float"
+        },
+        "holderIdentifier": {
+          "@id": "http://schema.org/identifier"
+        }
+      }
+    }
+  }
+}
