@@ -4,6 +4,10 @@
     "@protected": true,
     "id": "@id",
     "type": "@type",
+    "value": {
+      "@id": "ex:value",
+      "@type": "https://schema.org/Text"
+    },
     "UsecaseAgreement": {
       "@context": [
         "https://www.w3.org/2018/credentials/v1"
