@@ -9,8 +9,11 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
+        "holderIdentifier": {
+          "@id": "http://schema.org/identifier"
+        },
         "contractVersion": "https://schema.org/Float",
-    		"contractTemplate": "https://schema.org/Text"
+        "contractTemplate": "https://schema.org/Text"
       }
     },
     "BehaviorTwinCredential": "https://example.com/vocab#BehaviorTwinCredential",
