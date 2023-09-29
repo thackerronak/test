@@ -3,7 +3,7 @@
     "@version": 1.1,
     "@protected": true,
     "UseCaseFrameworkCondition": {
-      "@id": "https://raw.githubusercontent.com/Cofinity-X/schema-registry/main/v1.1/UserCaseVC#UseCaseFrameworkCondition",
+      "@id": "https://raw.githubusercontent.com/thackerronak/test/main/UserCaseVC#UseCaseFrameworkCondition",
       "@context": {
         "@version": 1.1,
         "@protected": true,
